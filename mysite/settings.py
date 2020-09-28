@@ -25,7 +25,7 @@ SECRET_KEY = 'sxwes#45fmwj$lurtu#wwnrd5e(c!6qg4k$xw4=7d3jeq&_55%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tprymak.pythonanywhere.com']
 
 
 # Application definition
